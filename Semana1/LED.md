@@ -6,7 +6,7 @@
 
 <div align="center">
 <sub>Figura 1  - Print tela IDE</sub><br>
-<img src="../Semana1\assets\IDE.png" ><br>
+<img src="../assets\IDE.png" ><br>
 <sup>Fonte: Material produzido pelos autores (2024)</sup>
 </div> 
 

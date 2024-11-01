@@ -8,9 +8,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp; Este código faz com que o semáforo fique 6 segundos vermelho, 2 segundos amarelo, 2 segundos verde, novamente 2 segundos amarelo e após isso o ciclo se repete. Também foi implementado um botão que, quando acionado, faz com que o loop se inicie. 
 
 ```C++
-#define ledVerm 11
-#define ledAmar 10
-#define ledVerd 9
+#define ledVerm 26
+#define ledAmar 33
+#define ledVerd 14
 
 void setup() {
 Serial.begin(9600);
